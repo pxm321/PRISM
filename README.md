@@ -6,5 +6,5 @@ This document is to provide documentation as to how to use the Volume Visualizer
 
 
 
-调研近年来国外内公开发表的相关文献，可以从Web of Science、Scopus、ScienceDirect、中国知网等数据库内的国内外期刊、论文、公开报告等。
+调研近年来国外内公开发表的相关文献，包括Web of Science、Scopus、ScienceDirect、中国知网等数据库内的国内外期刊、论文、公开报告等。
 
