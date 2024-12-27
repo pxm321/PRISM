@@ -106,7 +106,9 @@ fi
 ## Author and Contact
 * *Author:* Randall Reese
 * *Email:* randall.reese@inl.gov
-* *PRISM Developers:* Randall Reese, James Money, Marko Sterbentz, Nathan Morrical, Landon Woolley, Thomas Szewczyk. 
+* *PRISM Developers:* Randall Reese, James Money, Marko Sterbentz, Nathan Morrical, Landon Woolley, Thomas Szewczyk.
+
+* 调研近年来国外内公开发表的相关文献，可以从Web of Science、Scopus、ScienceDirect、中国知网等数据库内的国内外期刊、论文、公开报告等。
 
 
 
